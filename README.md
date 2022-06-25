@@ -1,6 +1,6 @@
 # AES Image Encryption with CUDA C
 
-Advanced Encryption Standard (AES) image encryption with CUDA C. This is a final project for CMDA 4984 SS: Scientific Computing at Scale (Fall 2021) at Virginia Tech. All rights reserved. Unauthorized copying and submission of this project will be in violation of Virginia Tech's Honor Code (https://honorsystem.vt.edu/honor_code_policy_test/definitions_of_academic_misconduct.html). 
+Advanced Encryption Standard (AES) image encryption with CUDA C. This was a final project for CMDA 4984 SS: Scientific Computing at Scale (Fall 2021) at Virginia Tech. All rights reserved. Unauthorized copying and submission of this project will be in violation of Virginia Tech's Honor Code (https://honorsystem.vt.edu/honor_code_policy_test/definitions_of_academic_misconduct.html). 
 
 This project has been posted publicly for portfolio boosting (hopefully) and educational purposes. 
 
