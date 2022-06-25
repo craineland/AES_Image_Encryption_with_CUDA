@@ -1,0 +1,16 @@
+cmda15@node03:~/git/aes-image-encryption/device$ cuda-memcheck make lena
+========= CUDA-MEMCHECK
+./aes_device images/lena.bmp 96 image_output/encrypted_lena.bmp image_output/decrypted_lena.bmp
+
+=== DEVICE Encryption/Decryption Results ===
+
+Size of Input Image: 786432 bytes
+Dimensions of Image in Pixels (x,y): (512,512)
+
+Encryption Time: 0.019994 sec 
+Encryption Throughput: 39.33 MB/s // Throughput is off because of cuda-memcheck
+
+Decryption Time: 0.018233 sec
+Decryption Throughput: 43.13 MB/s // Throughput is off because of cuda-memcheck
+
+========= ERROR SUMMARY: 0 errors
