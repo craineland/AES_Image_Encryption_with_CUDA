@@ -20,7 +20,7 @@ This project's existence would not have been possible without the existence of D
 Simply clone this repository:
 
 ```
-git clone https://code.vt.edu/craine/aes-image-encryption.git
+git clone https://github.com/craineland/AES_Image_Encryption_with_CUDA.git
 ```
 
 ### Executing program
